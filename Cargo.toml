@@ -1,7 +1,0 @@
-[package]
-name = "praiselife"
-version = "0.1.0"
-authors = ["JaDev <alonzeauj@gmail.com>", "Eugene <mr.eugene972@gmail.com>"]
-
-[dependencies]
-gotham = "0.3.0"
